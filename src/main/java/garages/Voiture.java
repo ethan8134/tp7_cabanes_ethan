@@ -92,5 +92,6 @@ public class Voiture {
 				out.println("\t" + s);
 			}
 		}
+		//ajout commentaire pour nv commit
 	}
 }
